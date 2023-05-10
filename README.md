@@ -54,6 +54,7 @@ Timeline views
 ![MoviePrint_v004 screenshot](https://movieprint.fakob.com/wp-content/uploads/2019/03/MoviePrint_v004-0.1.16-alpha-screenshot-1.jpeg)
 ![MoviePrint_v004 screencast](https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-18.57.14.jpg)
 ![MoviePrint_v004 screencast](https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.22.03.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2FMoviePrint_v004.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2FMoviePrint_v004?ref=badge_shield)
 
 ### Watch explainer
 [![MoviePrint_v004 screencast](http://img.youtube.com/vi/vRklHN0A2YU/0.jpg)](https://www.youtube.com/watch?v=vRklHN0A2YU)
@@ -123,3 +124,6 @@ $ yarn package
 
 ## License
 MIT © [fakob](https://github.com/fakob)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2FMoviePrint_v004.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2FMoviePrint_v004?ref=badge_large)
