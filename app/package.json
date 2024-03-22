@@ -24,8 +24,8 @@
     "postinstall": "yarn electron-rebuild -w opencv4nodejs,better-sqlite3,@tensorflow/tfjs-node"
   },
   "dependencies": {
-    "@tensorflow/tfjs-node": "^1.5.2",
-    "better-sqlite3": "^5.4.0",
+    "@tensorflow/tfjs-node": "^3.7.0",
+    "better-sqlite3": "^7.1.2",
     "face-api.js": "^0.22.1",
     "opencv4nodejs": "^4.9.1",
     "typeface-open-sans": "^0.0.54",
