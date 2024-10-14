@@ -310,7 +310,7 @@
     "electron-chartjs": "^1.0.0",
     "electron-debug": "^3.0.1",
     "electron-log": "^4.0.4",
-    "electron-process-manager": "^1.0.0",
+    "electron-process-manager": "^1.2.0",
     "electron-unhandled": "^3.0.2",
     "eslint-config-erb": "^0.3.0",
     "eslint-plugin-prettier": "^3.1.2",
